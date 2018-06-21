@@ -9,3 +9,4 @@ Quality is often more important than quantity.
 对于生物学上不同的条件，平均技术重复可以限制测量误差的影响，但是对于提高统计测试效率，增加生物学重复也是可取的；
 
 巢式实验设计可以说相当复杂，并且包括很多生物学重复和技术重复水平。生物学重复和技术重复的区别是取决于哪种变异来源作为研究对象，或者视为噪音来源；
+![table1](https://github.com/Tina610/Way-To-Statistics/blob/master/points-of-significance/images/replicat_table1.png)
